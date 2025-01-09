@@ -1,4 +1,5 @@
 import logo from "./logo.png";
+import logo_kkn from "./logo_kkn.png";
 import product_pict_1 from "./product_pict_1.jpg";
 
 // import upload_area from "./upload_area";
@@ -8,6 +9,7 @@ export const assets = {
   //   logo_light,
   //   product_icon,
   logo,
+  logo_kkn,
 };
 
 export const product_data = [
@@ -18,6 +20,7 @@ export const product_data = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa  voluptatibus doloremque veniam aliquam sequi incidunt aliquid dolores, consectetur, atque quae voluptate consequatur quis, eveniet alias  facere! Nostrum eveniet ab dignissimos!",
     image: product_pict_1,
     category: "Makanan",
+    address: "Lamteng",
     author: "Havidz",
   },
   {
